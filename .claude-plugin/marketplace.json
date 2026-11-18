@@ -1,11 +1,11 @@
 o{
-  "name": "tipografia-potencialiago",
+  "name": "tipografia-converzzo",
   "owner": {
     "name": "Converzzo",
-    "url": "https://instagram.com/potencialiago"
+    "url": "https://instagram.com/converzzo"
   },
   "metadata": {
-    "description": "Plugin gratuito de PotencialiaGo: subtítulos y textos animados con Claude."
+    "description": "Plugin gratuito de converzzo: subtítulos y textos animados con Claude."
   },
   "plugins": [
     {
@@ -14,7 +14,7 @@ o{
       "description": "Subtítulos y textos animados para Reels y TikTok que Claude aplica por ti: 16 estilos de subtítulos, títulos detrás de ti, citas, contadores, encuestas, texto animado, 40 fuentes gratis, .srt y traducción. Gratis, por @converzzo.",
       "version": "1.0.0",
       "author": {
-        "name": "PotencialiaGo"
+        "name": "converzzo"
       },
       "license": "MIT",
       "keywords": [
